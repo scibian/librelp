@@ -1,3 +1,9 @@
+librelp (1.2.7-3~calibre9+1) calibre9; urgency=medium
+
+  * Backport to Calibre9.
+
+ -- Rémi Palancher <remi-externe.palancher@edf.fr>  Wed, 13 Apr 2016 11:48:19 +0200
+
 librelp (1.2.7-3) unstable; urgency=medium
 
   * Update Vcs-Browser URL to use cgit and https.
