@@ -1,14 +1,14 @@
 Source: librelp
 Section: libs
 Priority: optional
-Maintainer: Michael Biebl <biebl@debian.org>
+Maintainer: Scibian Project <packaging@scibian.org>
 Build-Depends: debhelper (>= 9),
                autotools-dev,
                libgnutls28-dev (>= 2.10.0),
                pkg-config
 Standards-Version: 3.9.6
-Vcs-Git: git://anonscm.debian.org/collab-maint/librelp.git
-Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/librelp.git
+Vcs-Git: https://github.com/scibian/librelp.git
+Vcs-Browser: https://github.com/scibian/librelp
 Homepage: http://www.librelp.com/
 
 Package: librelp0

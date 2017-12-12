@@ -2,6 +2,11 @@ Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: librelp
 Source: http://www.librelp.com/
 
+Files: debian/*
+Copyright: 2008-2013 Rainer Gerhards and Adiscon GmbH
+           2017 Scibian Project <legal@scibian.org>
+License: GPL-3.0+
+
 Files: *
 Copyright: 2008-2013 Rainer Gerhards and Adiscon GmbH
 License: GPL-3.0+
